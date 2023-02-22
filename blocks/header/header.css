@@ -1,0 +1,7 @@
+.header {
+    border: 1px red solid;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    margin: 28px 48px 0;
+}

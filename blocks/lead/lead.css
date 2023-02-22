@@ -1,0 +1,7 @@
+.lead {
+    border: 1px solid red;
+    display: flex;
+    margin: 56px 148px 0;
+    flex-direction: column;
+    justify-content: center; 
+}
