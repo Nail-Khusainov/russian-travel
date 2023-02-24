@@ -1,0 +1,7 @@
+.footer {
+    border: 1px red solid;
+    display: flex;
+    margin: 92px auto 24px;
+    justify-content: space-between;
+    max-width: 1184px;
+}

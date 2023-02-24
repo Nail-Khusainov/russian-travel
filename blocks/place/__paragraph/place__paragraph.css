@@ -1,0 +1,13 @@
+.place__paragraph {
+    border: 1px solid red;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 163%;
+    margin: 27px 0 0 0;
+    max-width: 484px;
+}
+
+.place__paragraph:first-of-type {
+    margin-top: 0;
+}
