@@ -7,4 +7,18 @@
     color: white;
     font-size: normal;
     font-weight: normal;
+    opacity: 1;
+    transition: opacity .3s;
+    transition-timing-function: ease;
+  }
+  
+  .header__lang-link:hover {
+    opacity: .8;
+  }
+
+@media screen and (max-width: 767px) {
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+    }
 }
