@@ -1,5 +1,4 @@
 .intro {
-    border: 1px red solid;
     display: flex;
     flex-direction: column;
     max-width: 690px;

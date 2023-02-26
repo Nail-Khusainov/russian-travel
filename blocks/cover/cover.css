@@ -1,5 +1,15 @@
 .cover {
-    border: 1px red solid;
     padding: 0 48px 0;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 1279px) {
+    .cover {
+        padding: 0;
+    }
+}
+
+.cover:hover .cover__dark-background { 
+    opacity: 0.8;
+}
+
