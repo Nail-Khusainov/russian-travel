@@ -14,3 +14,5 @@
 
   МЕТОДОЛОГИЯ: 
   - БЭМ
+
+Link https://nail-khusainov.github.io/russian-travel/

@@ -1,0 +1,11 @@
+@media screen and (max-width: 1023px) {
+    .place__title_line-break {
+        padding-right: 100px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .place__title_line-break {
+        padding: 0;
+    }
+}
